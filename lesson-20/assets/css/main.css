@@ -1,0 +1,149 @@
+.container{
+  padding: 40px;
+
+}
+section.posts{
+  border : solid red 3px;
+}
+section.posts h1{
+  color: red;
+}
+section.single-post{
+  border : solid blue 3px;
+}
+section.single-post h1{
+  color:blue;
+}
+.header{
+  border : solid purple 3px;
+}
+.header h1{
+  color:purple;
+}
+.sidebar{
+  border : solid black 3px;
+}
+.sidebar h1{
+  color:black;
+}
+.footer{
+  border : solid orange 3px;
+}
+.footer h1{
+  color:orange;
+}
+#comment-2{
+  border:solid red 1px;
+  margin: 20px;
+  padding:20px;
+}
+.comment-respond{
+  border:solid red 1px;
+  margin: 20px;
+  padding:20px;
+}
+.comment-outer{
+  border:solid green 1px;
+  margin:10px;
+  padding:10px;
+}
+.comment-outer h2{
+  color: green;
+}
+.archive{
+  border:solid #47d827 3px;
+}
+.archive h1{
+  color:#47d827;
+}
+.category{
+  border:solid #cf27d8 3px;
+}
+.category h1{
+  color:#cf27d8;
+}
+.content{
+  border:solid #6b1649 3px;
+  margin: 10px;
+  padding:50px;
+}
+.content h2{
+  color:#6b1649;
+}
+.thumbnail{
+  width:70%;
+  height: 320px;
+  margin-left:15%;
+}
+.thumbnail img{
+  width:100%;
+  height: 100%;
+}
+.content-link{
+  border:solid #33b74b 3px;
+  padding:10px;
+  margin:10px;
+}
+.content-link h2{
+  color:#33b74b;
+}
+.content-aside{
+  border:solid #cf27d8 3px;
+  margin:10px;
+  padding:20px;
+}
+.content-aside h2{
+  color:#cf27d8;
+}
+.thumbnail-aside{
+  width:15%;
+  display: inline-block;
+  float:right;
+}
+.entry-aside{
+  width:80%;
+}
+.text-right{
+  float: right;
+}
+.pag{
+  height: 20px;
+}
+.pages{
+  border:solid #6e6fcc 3px;
+}
+.pages h1{
+  color: #6e6fcc;
+}
+.front-page{
+  border:solid #fcde19 3px;
+}
+.front-page h1{
+    color: #fcde19;
+}
+.page-about{
+  border:solid #02c9ae 3px;
+}
+.page-about h1{
+  color: #02c9ae;
+}
+.full-screen{
+  border:solid #647f96 3px;
+}
+.full-screen h1{
+  color: #647f96;
+}
+.side-screen{
+  border:solid #0bc6e8 3px;
+}
+.side-screen h1{
+  color: #0bc6e8;
+}
+.sidebar-template-content{
+    width: 75%;
+    display: inline-block;
+}
+.sidebar-template-side{
+    width: 24%;
+    float: right;
+ }

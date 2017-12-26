@@ -1,0 +1,52 @@
+.container{
+  padding: 40px;
+
+}
+section.posts{
+  border : solid red 3px;
+}
+section.posts h1{
+  color: red;
+}
+section.single-post{
+  border : solid blue 3px;
+}
+section.single-post h1{
+  color:blue;
+}
+.header{
+  border : solid purple 3px;
+}
+.header h1{
+  color:purple;
+}
+.sidebar{
+  border : solid black 3px;
+}
+.sidebar h1{
+  color:black;
+}
+.footer{
+  border : solid orange 3px;
+}
+.footer h1{
+  color:orange;
+}
+#comment-2{
+  border:solid red 1px;
+  margin: 20px;
+  padding:20px;
+}
+.comment-respond{
+  border:solid red 1px;
+  margin: 20px;
+  padding:20px;
+}
+.comment-outer{
+  border:solid green 3px;
+  margin:10px;
+  padding:10px;
+}
+.comment-outer h2{
+  color: green;
+}
